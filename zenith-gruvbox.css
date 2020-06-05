@@ -1,0 +1,25 @@
+:root {
+    --header-font: "Fira Sans", "Inter", sans-serif;
+    --body-font: "Fira Sans", "Inter", sans-serif;
+    
+    --bg-color: #282828;
+    --page-color: #3c3836;
+    
+    --text-color: #fbf1c7;
+    --icon-color: #a89984; /* #5c7080 */
+    --bullet-color: rgba(131,165,152, 0.6);
+    
+    --page-shadow: 0px 8px 14px rgba(0, 0, 0, 0.05);
+    
+    --color-primary: 184,187,38; /* #ebdbb2*/
+    --color-primary-contrast: #fbf1c7;
+    --color-secondary: 254,128,25;
+    /*--color-secondary: 255, 165, 0;*/
+    --color-secondary-contrast: #8ec07c;
+    --page-width: 800px;
+       
+}
+
+.rm-embed-container {
+  background-color: rgba(102,92,84, 0.5);
+}
